@@ -37,7 +37,7 @@ The course is deliberately practice-oriented: students will set up the required 
 ## Delivery Approach 
 The course will be delivered through a structured mix of lectures, laboratory sessions, field activities, daily quizzes, recap activities, evaluation forms and group presentations. The three-day delivery sequence is designed to build progressively from orientation and account setup, to field data collection and processing, and finally to machine learning classification, change detection, statistics and student reporting. 
 
- <img width="341" height="375" alt="image" src="https://github.com/user-attachments/assets/1fdafd7a-3e71-4879-b5b8-2b03f95f9213" />
+ <img width="680" height="750" alt="image" src="https://github.com/user-attachments/assets/1fdafd7a-3e71-4879-b5b8-2b03f95f9213" />
 
 
 
