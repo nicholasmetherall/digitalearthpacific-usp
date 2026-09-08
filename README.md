@@ -138,9 +138,9 @@ GitHub coding communities – Digital Earth Pacific, Pacific Coding Community.
 
  
 
-**Recommended further reading 
-**
-**Landcover monitoring: **
+## Recommended further reading 
+
+### Landcover monitoring: 
 
 Metherall, N., Anderson, J., Singh, S., Leith, A., Saipaia, A., Fa’anunu, L., Dhaja, C., Waqa, M., Biukoto, E., Lodhia, S., Jackson, N., Mlisa, A., Killough, B., and Bernasocchi, M.: Free and open-source machine learning workflows for co-creating national-scale classification models through country-driven QField surveys and Digital Earth Pacific, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W20-2025, 59–71, https://doi.org/10.5194/isprs-archives-XLVIII-4-W20-2025-59-2026, 2026.  
 
@@ -148,9 +148,7 @@ Biukoto, E., Metherall, N., Baleilomaloma, A. L., Mateboto, J., Naikatini, A., T
 
  
 
-**Tropical cyclone impacts: 
-**
- 
+### Tropical cyclone impacts:  
 Metherall, N., Holland, E., Tu’uholoaki, M. et al. The impact of tropical cyclones Pam, Harold, Winston and Yasa on tree cover loss in Vanuatu and Fiji. Sci Rep 16, 212 (2026). https://doi.org/10.1038/s41598-025-29437-w  
 
 Waqa,V. M., Metherall, N., Wara, L., Vanualailai, M., Leith, A., Killough, B., Biukoto, E., Brown, J., Dhaja, C., O'Connor, R.S (2026 forthcoming). Using the Radar Vegetation Index (RVI) to Assess the Impacts of Tropical Cyclone Yasa on the Agricultural Sector of Vanua Levu, Fiji, with Case Studies on Sugarcane and Kava: A remote sensing approach for loss and damage accounts. Loss and Damage Research Symposium. (Available upon request). 
