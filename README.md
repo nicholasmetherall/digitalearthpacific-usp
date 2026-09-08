@@ -7,7 +7,7 @@ Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Dis
 ##### Host institution: University of the South Pacific (USP) 
 ##### Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact using Digital Earth Pacific 
 ##### Materials: Google Classroom link: https://classroom.google.com/c/ODc4MTUzNDMyNzQ0?cjc=6i76dkp5
-<img width="950" height="700" alt="image" src="https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf" />
+<img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf" />
  
 
 ##### Instructor: Dr Nicholas Metherall, Pacific Community (SPC) 
