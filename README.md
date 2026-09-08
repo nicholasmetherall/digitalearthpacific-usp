@@ -3,14 +3,14 @@ Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Dis
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
-##### Course dates: 9–11 September 2026 
-##### Host institution: University of the South Pacific (USP) 
-##### Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact using Digital Earth Pacific 
-##### Materials: Google Classroom link: https://classroom.google.com/c/ODc4MTUzNDMyNzQ0?cjc=6i76dkp5
+#### Course dates: 9–11 September 2026 
+#### Host institution: University of the South Pacific (USP) 
+#### Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact using Digital Earth Pacific 
+#### Materials: Google Classroom link: https://classroom.google.com/c/ODc4MTUzNDMyNzQ0?cjc=6i76dkp5
 <img width="850" height="420" alt="image" src="https://github.com/user-attachments/assets/69656724-9140-4eff-8714-637ee96704bf" />
  
 
-##### Instructor: Dr Nicholas Metherall, Pacific Community (SPC) https://fennerschool.anu.edu.au/people/nicholas-metherall 
+#### Instructor: Dr Nicholas Metherall, Pacific Community (SPC) https://fennerschool.anu.edu.au/people/nicholas-metherall 
 
 Nick Metherall is a hydrologist, forester and earth observation specialist. He was the first cotutelle (joint) PhD student at the University of the South Pacific (USP). His PhD titled "Combining field surveys, GIS and earth observation methods for localised environmental monitoring of hydrology and forestry ecosystem services" was completed in collaboration with USP and the Australian National University (ANU). Nick has worked in a range of Governments, Intergovernmental Organisations, universities and NGOs. Notably, Nick has worked within the Australian Federal Departments of Agriculture, Water and Environment, the Climate Change Division of the Department of Environment and Energy, the Australian Trade Commission, the Water Authority, Ministry of Rural and Maritime Development and the National Disaster Management Office of Fiji. During this time, Nick also worked in environmental monitoring of the impacts of the Ranger Uranium Mine on the Magela floodplains and creeks adjacent close to Jabiru and Kakadu in the Northern Territory. He has also worked across Australia, Indonesia, Timor and West Papua. Nick has led teams to win awards within earth observation competitions including 3rd Prize in the Earth Observation for SDGs Competition, 2nd prize in the MAXAR Spatial Challenge (2020), and the 1st prize in the SpaceBase Space for Planet Earth Challenge. He is currently team lead for the Earth and Ocean Observation (EOO) Section of the Geoscience Energy Maritime Division within the Pacific Community (SPC).  
 
