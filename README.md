@@ -1,7 +1,7 @@
 # digitalearthpacific-usp-2026
 Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impacts using Digital Earth Pacific 
 
-<img width="412" height="237" alt="image" src="https://github.com/user-attachments/assets/c38db2cf-77fe-41b8-b42c-2377c095254c" />
+<img width="889" height="295" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
 Course dates: 9–11 September 2026 
 Host institution: University of the South Pacific (USP) 
