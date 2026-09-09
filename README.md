@@ -76,7 +76,7 @@ For those students seeking to stay connected and learn more about the content of
 
 - Digital Earth Pacific | Facebook - Digital Earth Pacific (DE Pacific) is an operational Earth observation system that utilises decades of satellite data to demonstrate how local environments are changing over time. 
 
-- GitHub coding communities – Digital Earth Pacific, Pacific Coding Community.  
+- GitHub coding communities – Digital Earth Pacific, Pacific Coding Community.  https://github.com/pacific-coding-community
 <img width="930" height="460" alt="image" src="https://github.com/user-attachments/assets/87c2adba-c9be-44f7-90f8-7d27c778695a" />
 
  
